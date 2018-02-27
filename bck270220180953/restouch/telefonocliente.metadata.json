@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "restouch.telefonocliente" }, { "v" : 1, "key" : { "telefono" : 1 }, "name" : "telefono_1", "ns" : "restouch.telefonocliente", "background" : true } ] }
